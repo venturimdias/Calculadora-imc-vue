@@ -1,24 +1,11 @@
-# t
+# Estudos VUE
 
-## Project setup
-```
-yarn install
-```
+## Calculadora IMC com Vue.js
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+[link para calculadora](https://w4jl4.csb.app/)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Print das telas
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+(https://w4jl4.csb.app/imc1.png)
+(https://w4jl4.csb.app/imc2.png)
+(https://w4jl4.csb.app/imc3.png)
